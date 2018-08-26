@@ -10,6 +10,8 @@ This consists with 2 featurs and each feature covering 2 tests.
 Tests are written in BDD fashion using Specflow, where as non technical users also can understand and contribute to the tests.
 While implementing this framework, Page Object Pattern was used so that to maximize the maintanability and code reuse.
 
+This test framework allows to execute tests in Chrome or Firefox browser to obtain cross browser verifications and can change the execution browser simply within the feature file.  
+
 After successful test execution, user can see a summary report similar to given below. This was generated with the help of Extent report library. 
 
 ![alt text](https://github.com/dcar2018/LeapTest/blob/master/TestResults/ReportSample.JPG)
