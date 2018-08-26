@@ -5,4 +5,4 @@ Consists with 2 simple tests to cover input verifications and to verify the sala
 After the test execution can see a summary report similar to given below, this was generated with the help of Extent report library. 
 
 ![alt text](https://github.com/dcar2018/LeapTest/blob/master/TestResults/ReportSample.JPG)
-https://github.com/dcar2018/LeapTest/blob/master/TestResults/ReportSample.JPG
+
