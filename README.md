@@ -8,7 +8,7 @@ This consists with 2 featurs and each feature covering 2 tests.
  * Salary calculate feature will test the accuracy of calculated values. The 2 tests verify the total hours and calculated salary for 2 different inputs.
 
 Tests are written in BDD fashion using Specflow, where as non technical users also can understand and contribute to the tests.
-While implementing this framework, Page Object Pattern was used so that to maximize the maintanability and code reuse.
+While implementing this framework, Page Object Model was used so that to maximize the maintanability and code reuse.
 
 This test framework allows to execute tests in Chrome or Firefox browser to obtain cross browser verifications and can change the execution browser simply within the feature file.  
 
