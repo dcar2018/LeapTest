@@ -1,6 +1,6 @@
-# LeapTest
+# Test Automation Framework
 
-LeapTest project is the test automation project developed with c#, Selenium Web Driver and Specflow to test the LeapApp employee salary calculation application.
+This test automation project developed with c#, Selenium Web Driver and Specflow to test the SampleApp employee salary calculation application.
 
 This consists with 2 featurs and each feature covering 2 tests.
 
